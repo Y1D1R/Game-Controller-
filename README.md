@@ -3,4 +3,4 @@
 
 - The code is in Python programming language using the following libraries: OpenCV - CVZone and PyAutoGUI.
 
-- The game is installed using a BlueStacks App Player.
+- The game is installed using BlueStacks App Player.
